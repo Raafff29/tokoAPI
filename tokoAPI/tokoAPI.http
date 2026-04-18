@@ -1,0 +1,6 @@
+@tokoAPI_HostAddress = http://localhost:5068
+
+GET {{tokoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
